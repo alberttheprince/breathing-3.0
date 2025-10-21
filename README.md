@@ -1,4 +1,4 @@
-![image](https://github.com/alberttheprince/breathing-2.0/assets/85725579/8a853f73-7950-4566-a5bb-5254e32b597e)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54365d0c-8bcf-492d-9257-085bd61b3aac" />
 
 
 # breathing ~~2.0~~ 3.0

@@ -1,11 +1,11 @@
 ![image](https://github.com/alberttheprince/breathing-2.0/assets/85725579/8a853f73-7950-4566-a5bb-5254e32b597e)
 
 
-# breathing 2.0
+# breathing ~~2.0~~ 3.0
 
 Tired of unrealistic roleplay servers? Tired of hearing players complaining about how unrealistic your server is? **You've come to the right Repo!**
 
-Breathing 2.0 **fundamentally changes** the way you roleplay, giving you and your players **total control** over their player's stamina consumption, taking back what was unjustly taken from you when Rockstar implemented auto-regenerating stamina.
+Breathing ~~2.0~~ 3.0 **fundamentally changes** the way you roleplay, giving you and your players **total control** over their player's stamina consumption, taking back what was unjustly taken from you when Rockstar implemented auto-regenerating stamina.
 
 By introducing realistic breathing functionality to your hardcore ultra-realistic no-pixel-inspired server, you will effectively solve any complaints about realism. Your community will gasp and then breathe sighs of relief as a new dawn of total immersion washes over them.
 
@@ -19,6 +19,7 @@ Despite hundreds of hours of man hours, dozens of consumer surveys, and industry
 - Hear your character suffer as they suffocate to death
 - Hear other players breathe and suffocate
 - Finally, make your server a R E A L I S T I C roleplay server!
+- Use a command to apply realism to specific players
 
 # Dependencies
 

@@ -4,6 +4,10 @@ game 'gta5'
 author 'PrinceAlbert'
 description 'Breathe or DIE - Experience the most advanced roleplay resource in the Universe'
 
+shared_scripts {
+	'config.lua'
+}
+
 client_scripts {
 	'client.lua'
 }
